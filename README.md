@@ -38,7 +38,7 @@
   - 사용자 경험(UX)을 고려한 인터페이스 개선  
   - GitHub Pages를 통한 배포 및 프로젝트 관리  
 - **GitHub Repo:** https://github.com/rainbreeze/capstone-server, https://github.com/rainbreeze/capstone-client
-- ** URL 주소:** beatopia.site
+- ** URL 주소:** [beatopia.site](https://beatopia.site/)
 
 ---
 
